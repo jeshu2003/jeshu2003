@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm [Jeshu Denzil Deve]!
+# 👋 Hi, I'm Jeshu Denzil Deve!
 
 🚀 **Final Year CSE Student | Cyber Security Enthusiast | Aspiring Software Developer**  
 
