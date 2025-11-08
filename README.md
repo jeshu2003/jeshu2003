@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jeshu Denzil Deve!
 
-🚀 **Final Year CSE Student | Cyber Security Enthusiast | Aspiring Software Developer**  
+🚀 **Data Analyst Candidate | Solving Business Problems with Data | SQL, Python, and Dashboarding (Tableau/Power BI/Excel)**  
 
 Welcome to my GitHub profile! I'm passionate about building innovative software solutions, particularly in the realm of backend development, database management, and automation.
 
@@ -10,19 +10,12 @@ Welcome to my GitHub profile! I'm passionate about building innovative software 
 
 ### 💼 **About Me**  
 
-- 💻 I have a huge interest in the domain **Cyber Security**  with a focus on  **Penetration Testing and Vulnerability Assessment**.
-- 🛠️ I enjoy solving complex problems, optimizing workflows, and writing clean, efficient code.
-- 🌱 Currently, I'm learning more about **Python** and **UI/UX**.
-- ✍️ On my journey of continuous learning, I love sharing insights and collaborating with others on open-source projects.
-
----
-
-### 💻 **About My Projects**  
-
-- 🧠**CORLEONE AI**: This project is built using Python with some API Keys.It is used for daily tasks and cyber security techniques to protect from insecurities and provide tips
-  to prevent from it.
-- 🎓🖥️**Student Management System**: This web page is used to handle datas,information about student,and their attendance and marks.It is built using HTML, CSS, and JavaScript.
-- 🕷️🟢🛡️🎯**Marvel Quiz**: This webpage is special for marvel fans to show how they really are marvel fans via QUIZ. It is built using HTML, CSS and JavaScript.
+- 💻 Core Skillset: I am a detail-oriented and analytical Data Analyst with hands-on experience in Python, SQL, and visualization tools (Tableau, Power BI, Excel).
+- 💡 Problem-Solving: I excel at using my skills in data cleaning and transformation, and developing dashboards to uncover actionable insights and support business decisions.
+- 🐍 Technical Proficiency: I am proficient in key data analysis and visualization libraries, including Pandas, NumPy, Matplotlib, and Seaborn , and utilize tools like MySQL, Jupyter Notebook, and VS Code.
+- ⚙️ Practical Experience: I have built Python scripts to automate data cleaning, which has previously reduced manual work by 30%. I also design SQL queries to extract insights from large datasets for reporting.
+- 🗄️ Project Focus: I have developed integrated systems, such as a Python-MySQL Library Management System, which successfully improved data retrieval efficiency by 40%.
+- 📈 Continuous Learning: I am consistently building on my knowledge through certifications in areas like Data Science with Python, Data Visualization, and Advanced Data Modelling
 
 ---
 ### 📫 **Get in Touch**  
