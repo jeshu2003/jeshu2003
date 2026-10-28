@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeshu Denzil Deve
+#👋 Hi, I'm Jeshu Denzil Deve
 
 <h3 align="center">
   Generative AI Developer • AI/ML Engineer • Python AI Developer
@@ -208,12 +208,12 @@ Zion Matriculation Higher Secondary School
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JESHUDENZILDEVE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESHUDENZILDEVE&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeshu2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshu2003&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JESHUDENZILDEVE&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=jeshu2003&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -229,7 +229,7 @@ Zion Matriculation Higher Secondary School
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JESHUDENZILDEVE&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jeshu2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -237,7 +237,7 @@ Zion Matriculation Higher Secondary School
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/JESHUDENZILDEVE">
+  <a href="https://github.com/jeshu2003">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/jeshudenzildeve">
